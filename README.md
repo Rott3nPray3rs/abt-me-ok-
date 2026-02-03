@@ -32,7 +32,7 @@ $\color{#eaae1b}{\textsf{i block freely so dont get mad if i block u}}$<br>
 $\color{#eaae1b}{\textsf{if your being weird to me ur ALSO getting blocked ok?}}$<br>
 $\color{#eaae1b}{\textsf{pls dont put yourself into my convo if im w a friend ok? i get annoyed pretty easily.}}$<br>
 $\color{#eaae1b}{\textsf{i like to host for my regis in my freetime!!}}$<br>
-$\color{#eaae1b}{\textsf{oke bye}}$
+$\color{#eaae1b}{\textsf{oke bye creds to @Vexuliii for template}}$
         <br>
           <br>
       </td>
