@@ -24,6 +24,7 @@
     <tr>
       <td>
         <br>
+$\color{#eaae1b}{\textsf{hi}}$<br>
 $\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
 $\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
 $\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
@@ -31,8 +32,7 @@ $\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
 $\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
 $\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
 $\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
-$\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
-$\color{#eaae1b}{\textsf{info info info info info info info info}}$
+$\color{#eaae1b}{\textsf{hi}}$
         <br>
           <br>
       </td>
