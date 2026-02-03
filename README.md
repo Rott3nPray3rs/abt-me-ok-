@@ -25,7 +25,7 @@
       <td>
         <br>
 $\color{#eaae1b}{\textsf{02/1}}$<br>
-$\color{#eaae1b}{\textsf{{HI im Azure ok im lesbian and genderfluid i am a MINOR!!!}$<br>
+$\color{#eaae1b}{\textsf{HI im Azure ok im lesbian and genderfluid i am a MINOR!!!}}$<br>
 $\color{#eaae1b}{\textsf{DNI if homophobic, racist, a p3d0 or u js love to start arguments.}}$<br>
 $\color{#eaae1b}{\textsf{i am pretty sensitive so iwc with some topics, PLEASE dont come up 2 me if im upset of i have dniu blank on ok?}}$<br>
 $\color{#eaae1b}{\textsf{i block freely so dont get mad if i block u}}$<br>
