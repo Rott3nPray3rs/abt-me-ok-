@@ -24,15 +24,15 @@
     <tr>
       <td>
         <br>
-$\color{#eaae1b}{\textsf{hi}}$<br>
-$\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
-$\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
-$\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
-$\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
-$\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
-$\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
-$\color{#eaae1b}{\textsf{info info info info info info info info}}$<br>
-$\color{#eaae1b}{\textsf{hi}}$
+$\color{#eaae1b}{\textsf{02/1}}$<br>
+$\color{#eaae1b}{\textsf{{HI im Azure ok im lesbian and genderfluid i am a MINOR!!!}$<br>
+$\color{#eaae1b}{\textsf{DNI if homophobic, racist, a p3d0 or u js love to start arguments.}}$<br>
+$\color{#eaae1b}{\textsf{i am pretty sensitive so iwc with some topics, PLEASE dont come up 2 me if im upset of i have dniu blank on ok?}}$<br>
+$\color{#eaae1b}{\textsf{i block freely so dont get mad if i block u}}$<br>
+$\color{#eaae1b}{\textsf{if your being weird to me ur ALSO getting blocked ok?}}$<br>
+$\color{#eaae1b}{\textsf{pls dont put yourself into my convo if im w a friend ok? i get annoyed pretty easily.}}$<br>
+$\color{#eaae1b}{\textsf{i like to host for my regis in my freetime!!}}$<br>
+$\color{#eaae1b}{\textsf{oke bye}}$
         <br>
           <br>
       </td>
