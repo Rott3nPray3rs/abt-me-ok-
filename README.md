@@ -17,7 +17,9 @@
 <br>
 <img src="https://64.media.tumblr.com/93c9124802b82cb56e78003825ff5930/ddb56a5333342532-51/s1280x1920/12a4b013f61e09d715f2bcc8e7773fe8db1b6e77.pnj" width="350" align="left" alt="flower">
 
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Rott3nPray3rs&color=98ace4&style=for-the-badge&label=flowers+picked:" title="can i freaking die already![trump](https://github.com/user-attachments/assets/55d9df7d-7913-42ef-8d71-a8dcaf4acba1)
+![trump](https://github.com/user-attachments/assets/40492849-f23d-4e55-82a5-47fa83cdf7e5)
+"></p>
 <br>
 <br>
   <table>
@@ -49,3 +51,8 @@ $\color{#eaae1b}{\textsf{oke bye creds to @Vexuliii for template}}$
 
 <img src="https://64.media.tumblr.com/70d3e84d60d676bc0757b67666d6ae2a/ce0e673afc490aa5-51/s2048x3072/5baad22ca0d39db8af0fe85657b3a962d7174232.pnj" width="800" alt="bottom lace">
 
+![sunset](https://github.com/user-attachments/assets/fd3f4363-be39-4b48-a0a5-59ccde57cc17)
+![mentalhealth](https://github.com/user-attachments/assets/df943161-07f3-4187-b1dc-5a1d04405f6b)
+
+![wing](https://github.com/user-attachments/assets/158f96e3-c9e2-4851-b4d2-a3e723313bf0)
+![trump](https://github.com/user-attachments/assets/a63b10ea-9d81-475c-ba45-cf6ce612328c)
